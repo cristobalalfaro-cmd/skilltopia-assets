@@ -1,22 +1,3 @@
-skilltopia-assets/
-  README.md
-  apps/
-    adncomercial/
-      brand/
-        logo/
-          adncomercial-logo.png
-          adncomercial-logo-dark.png
-          adncomercial-mark.png
-        palette/
-          palette.css
-          palette.json
-      media/
-        video/
-          hero-bg.mp4
-        images/
-          hero-poster.jpg
-      docs/
-        onepager.pdf
-  shared/
-    icons/
-    fonts/
+# Skilltopia Assets
+
+Central repository for shared visual and media assets.
